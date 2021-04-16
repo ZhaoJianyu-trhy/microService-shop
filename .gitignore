@@ -1,0 +1,11 @@
+# Project exclude paths
+/shop-api/target/
+/shop-common/target/
+/shop-coupon-service/target/
+/shop-goods-service/target/
+/shop-order-service/target/
+/shop-order-web/target/
+/shop-pay-service/target/
+/shop-pay-web/target/
+/shop-pojo/target/
+/shop-user-service/target/
